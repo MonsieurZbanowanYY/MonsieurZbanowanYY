@@ -1,16 +1,21 @@
-### Hi there 👋
+## 💻 Hi, I'm a Flutter Developer from Poland and I'm 16 years old.
 
-<!--
-**MonsieurZbanowanYY/MonsieurZbanowanYY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My tasks and skills as Flutter Developer:
 
-Here are some ideas to get you started:
+🚀 UI Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Database integration (Firebase Cloud Firestore, Firebase Storage)
+
+🚀 Firebase functions integration (Authentication, Crashlytics, Performance, Analytics)
+
+🚀 APIs implementation
+
+🚀 GetX (state management)
+
+🚀 Bloc (state management (basics))
+
+
+I'm developing mobile apps 📱 since Feb 2020 (Xamarin.Forms then - now Flutter). 
+In early 2021 I switched to Flutter which fits me better and since then I'm creating mobile apps only with Flutter (~one year of experience)
+
+🛠 My open-source projects you can find at: https://github.com/MonsieurZbanowanYY or in the "Projects" section inside "Accomplishments" (LinkedIn).
