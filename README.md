@@ -16,6 +16,9 @@ My tasks and skills as Flutter Developer:
 
 
 I'm developing mobile apps 📱 since Feb 2020 (Xamarin.Forms then - now Flutter). 
+
 In early 2021 I switched to Flutter which fits me better and since then I'm creating mobile apps only with Flutter (~one year of experience)
 
-🛠 My open-source projects you can find at: https://github.com/MonsieurZbanowanYY or in the "Projects" section inside "Accomplishments" (LinkedIn).
+ ### 📌 My LinkedIn: https://www.linkedin.com/in/martin-gogolowicz/
+
+🛠 My open-source projects you can find at: https://github.com/MonsieurZbanowanYY?tab=repositories or in the "Projects" section inside "Accomplishments" (LinkedIn).
