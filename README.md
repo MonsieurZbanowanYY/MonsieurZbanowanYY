@@ -15,7 +15,7 @@ My tasks and skills as Flutter Developer:
 🚀 Bloc (state management (basics))
 
 
-I'm developing mobile apps 📱 since Feb 2020 (Xamarin.Forms then - now Flutter). 
+I'm developing mobile apps 📱 since Feb 2020 (Xamarin.Forms in the past -> now Flutter). 
 
 In early 2021 I switched to Flutter which fits me better and since then I'm creating mobile apps only with Flutter (~one year of experience)
 
