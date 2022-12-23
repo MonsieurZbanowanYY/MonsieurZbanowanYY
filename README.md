@@ -10,14 +10,15 @@ My tasks and skills as Flutter Developer:
 
 🚀 APIs implementation
 
+🚀 Bloc (state management)
+
 🚀 GetX (state management)
 
-🚀 Bloc (state management (basics))
 
 
 I'm developing mobile apps 📱 since Feb 2020 (Xamarin.Forms in the past -> now Flutter). 
 
-In early 2021 I switched to Flutter which fits me better and since then I'm creating mobile apps only with Flutter (~one year of experience)
+In early 2021 I switched to Flutter which fits me better and since then I'm creating mobile apps only with Flutter (~two years of experience)
 
  ### 📌 My LinkedIn: https://www.linkedin.com/in/martin-gogolowicz/
 
