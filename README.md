@@ -12,9 +12,6 @@ My tasks and skills as Flutter Developer:
 
 🚀 Bloc (state management)
 
-🚀 GetX (state management)
-
-
 
 I'm developing mobile apps 📱 since Feb 2020 (Xamarin.Forms in the past -> now Flutter). 
 
