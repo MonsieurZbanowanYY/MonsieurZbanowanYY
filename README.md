@@ -1,4 +1,4 @@
-## 💻 Hi, I'm a Flutter Developer from Poland and I'm 17 years old.
+## 💻 Hi, I'm a Flutter Developer from Poland
 
 My tasks and skills as Flutter Developer:
 
